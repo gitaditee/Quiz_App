@@ -1,1 +1,2 @@
 # Quiz_App
+A simple quiz app developed for Android using Java typically features a user-friendly interface where players can choose from various questions or categories. As users select answers, the app provides immediate feedback, indicating whether the choice was correct or incorrect, and may keep track of scores or progress. The app leverages Android's UI elements and interactivity, with potential integration of features like timers, scoreboards, and multiple-choice buttons, all orchestrated using Java's robust backend functionalities and Android's SDK tools.
